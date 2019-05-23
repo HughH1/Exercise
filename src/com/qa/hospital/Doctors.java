@@ -1,11 +1,19 @@
 package com.qa.hospital;
 
 public class Doctors {
-	
-
-	public void doc(Staff type) {
-		
-	}
 
 	
+	TreatmentPlanBuilder builder = new TreatmentPlanBuilder();
+
+//	public void createTreatmentPlan() {
+//
+//		counter++;
+//
+//		
+//
+//	}
+//
+//	public void count() {
+//		i = counter;
+//	}
 }

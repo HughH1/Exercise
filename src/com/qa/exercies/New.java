@@ -15,7 +15,6 @@ public class New {
 		Optional<String> myOptional = Optional.ofNullable(x);
 		System.out.println(myOptional.orElse("Oh no"));
 		System.out.println(myOptional.isPresent());
-
 	}
 
 }
