@@ -1,5 +1,11 @@
 package com.qa.hospital;
 
-public class Doctors extends Staff {
+public class Doctors {
+	
 
+	public void doc(Staff type) {
+		
+	}
+
+	
 }
